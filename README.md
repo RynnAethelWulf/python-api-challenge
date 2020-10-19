@@ -55,8 +55,6 @@ From the data of 574 city locations these were the trends observeved -
 - Areas near the equator and to north latitiude  have much higher humidty than towards south poles. Again due to the tilt of the earth towards sun. 
 - A strong linear temeprature drop from eqautor towards north pole.
 
-What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumor volume and timepoint for Capomulin regimen.
-
 <b>Part-2</b></br>
 Heat map that displays the humidity for every city of the data - Oct/2020</br>
 
@@ -67,7 +65,7 @@ Heat map that displays the humidity for every city of the data - Oct/2020</br>
 - A max temperature lower than 80 Fahernheit  but higher than 70 Fahernheit.</br>
 - Wind speed less than 10 mph.</br>
 - Zero cloudiness.</br>
-- And finaly humidity between 30 and 60 cent</br>
+- And finaly humidity between 30 and 60 cent.</br>
 
 Hotels within the perfect weather conditons - Oct/2020</br>
 <br></br>
