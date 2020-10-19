@@ -30,14 +30,15 @@
 ## 🧐 About <a name = "about"></a>
 Creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we'll be utilizing a  Python library, and the OpenWeatherMap API to create a representative model of weather across world cities.
 Series of scatter plots are created to showcase the following relationships:
+</br>
+
+-Temperature (F) vs. Latitude</br>
+-Humidity (%) vs. Latitude</br>
+-Cloudiness (%) vs. Latitude</br>
+-Wind Speed (mph) vs. Latitude</br>
 
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
-
-Second part include ,Running linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude)
+Second part includes ,Running linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -62,5 +63,5 @@ What can be clearly seen in the  mices for Capomulin regimen between tumor volum
  <img width=1200px height=800px src="https://imgur.com/Fb9cxe5" alt="hotle_locations"></a>
 </p>
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- UWA Data Science
-- Citypy python library by wingchen
+- UWA Data Science</br>
+- Citypy python library by wingchen</br>
