@@ -52,11 +52,11 @@ Second part includes ,Running linear regression on each relationship, only this 
 <b>Part-1</b>
 From the data of 574 city locations these were the trends observeved -
 - Temperature increases toward higher latitudes,as earth is tiltled at an angle approx 23.5 degrees where higher latitude are closer to sun and lower latitudes are away from the   sun based on the year. 
-- Areas near the equator and to north latitiude  have much higher humidty than towards south poles. Again due to the tilt of the earth towards sun. 
+- Areas near the Equator and towards northern latitiude  have much higher humidty than towards south poles. Again due to the tilt of the earth towards sun. 
 - A strong linear temeprature drop from eqautor towards north pole.
 
 <b>Part-2</b></br>
-Heat map that displays the humidity for every city of the data - Oct/2020</br>
+Heat map that displays the humidity for every city of the data on Oct/2020</br>
 
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/heatmap.png?raw=true)
 
@@ -66,11 +66,11 @@ Heat map that displays the humidity for every city of the data - Oct/2020</br>
 - Wind speed less than 10 mph.</br>
 - Zero cloudiness.</br>
 - And finaly humidity between 30 and 60 cent.</br>
-
-Hotels within the perfect weather conditons - Oct/2020</br>
-<br></br>
+                                                       
+                                                       
+Hotels within the perfect weather conditons on Oct/2020</br>
+</br>
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true)</br>
-
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science</br>
