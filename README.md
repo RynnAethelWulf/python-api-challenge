@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Analysis of Weather around the world & Finding Hotels at Perfect Weather Conditions</h3>
+<h3 align="center">Analysis of Weather Around the World & Finding Hotels at Perfect Weather Conditions</h3>
 
 <div align="center">
 
@@ -57,6 +57,10 @@ From the data of 249 mice identified these were the trends observeved -
 What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumor volume and timepoint for Capomulin regimen.
 
 <b>Part-2</b>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=1200px height=800px src="https://imgur.com/Fb9cxe5" alt="hotle_locations"></a>
+</p>
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
 - Citypy python library by wingchen
