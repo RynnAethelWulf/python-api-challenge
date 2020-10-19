@@ -58,7 +58,8 @@ From the data of 249 mice identified these were the trends observeved -
 What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumor volume and timepoint for Capomulin regimen.
 
 <b>Part-2</b></br>
-(![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true))</br>
+![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/heatmap.png?raw=true)</br>
+![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true)</br>
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
