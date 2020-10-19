@@ -59,16 +59,18 @@ What can be clearly seen in the  mices for Capomulin regimen between tumor volum
 
 <b>Part-2</b></br>
 Heat map that displays the humidity for every city of the data - Oct/2020</br>
+
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/heatmap.png?raw=true)
 
 </br>
-</p> For perfect weather conditons here are the criteria considered
-- A max temperature lower than 80 Faherneit  but higher than 70 Faherneit.
-- Wind speed less than 10 mph.
-- Zero cloudiness.
-- And finalyy humidity between 30 and 60 cent</p></br>
+ For perfect weather conditons here are the criteria considered
+- A max temperature lower than 80 Fahernheit  but higher than 70 Fahernheit.</br>
+- Wind speed less than 10 mph.</br>
+- Zero cloudiness.</br>
+- And finaly humidity between 30 and 60 cent</br>
 
 Hotels within the perfect weather conditons - Oct/2020</br>
+
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true)</br>
 
 
