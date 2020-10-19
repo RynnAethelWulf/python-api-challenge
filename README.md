@@ -60,7 +60,7 @@ What can be clearly seen in the  mices for Capomulin regimen between tumor volum
 <b>Part-2</b>
 <p align="center">
   <a href="" rel="noopener">
- <img width=1200px height=800px src="https://imgur.com/Fb9cxe5" alt="hotle_locations"></a>
+ <img width=1200px height=800px src="https://imgur.com/a/f0Be6Qt" alt="hotle_locations"></a>
 </p>
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science</br>
