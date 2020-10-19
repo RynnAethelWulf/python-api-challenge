@@ -48,17 +48,20 @@ Second part includes ,Running linear regression on each relationship, only this 
 -Saved a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
-## ✍️ Observable Trends <a name = "trends"></a>
+## ✍️ Observable Trends <a name = "trends"></a></br>
 <b>Part-1</b>
-From the data of 249 mice identified these were the trends observeved -
-- Ramicane regimen performes as good as Capomulin regimen.
-- Ketapril and Naftisol regimen increased the  tumor volume significantly.
-- Capomulin regimen has been more effective for female mice.
+From the data of 574 city locations these were the trends observeved -
+- Temperature increases toward higher latitudes,as earth is tiltled at an angle approx 23.5 degrees where higher latitude are closer to sun and lower latitudes are away from the   sun based on the year. 
+- Areas near the equator and to north latitiude  have much higher humidty than towards south poles. Again due to the tilt of the earth towards sun. 
+- A strong linear temeprature drop from eqautor towards north pole.
 
 What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumor volume and timepoint for Capomulin regimen.
 
 <b>Part-2</b></br>
+Heat map that displays the humidity for every city of the data - Oct/2020
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/heatmap.png?raw=true)</br>
+</br>
+Hotels within the perfect weather conditons - Oct/2020
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true)</br>
 
 
