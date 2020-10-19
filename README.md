@@ -70,7 +70,7 @@ Heat map that displays the humidity for every city of the data - Oct/2020</br>
 - And finaly humidity between 30 and 60 cent</br>
 
 Hotels within the perfect weather conditons - Oct/2020</br>
-
+<br></br>
 ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true)</br>
 
 
