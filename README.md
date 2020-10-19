@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/bimalkprabha/python-api-challenge//issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/bimalkprabha/python-api-challenge//pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -58,7 +58,7 @@ From the data of 249 mice identified these were the trends observeved -
 What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumor volume and timepoint for Capomulin regimen.
 
 <b>Part-2</b></br>
-![Alt text](../output_data/hotel_locations_at_perfect_weather.png?raw=true "Title")</br>
+(![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/hotel_locations_at_perfect_weather.png?raw=true))</br>
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
