@@ -52,9 +52,7 @@ Second part includes ,Running linear regression on each relationship, only this 
 <b>Part-1</b>
 From the data of 574 city locations these were the trends observeved -
 - Temperature increases toward higher latitudes,as earth is tiltled at an angle approx 23.5 degrees where higher latitude are closer to sun and lower latitudes are away from the   sun based on the year.
-</br>
  ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/fig6.png?raw=true)
- </br>
  ![alt text](https://github.com/bimalkprabha/python-api-challenge/blob/main/output_data/fig5.png?raw=true)
  
 - Areas near the Equator and towards northern latitiude  have much higher humidty than towards south poles. Again due to the tilt of the earth towards sun. 
