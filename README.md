@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">  A report that breaks down the weather data retrived from api and finding relationships between weather,humidity,wind-speed and displaying the hotels on google maps for cities satisfying the perfect weather conditions.
+<p align="center">  A report that breaks down the weather data retrived from api and finding relationships between weather,humidity,wind-speed and displaying the hotels on google maps for cities satisfying the perfect weather conditions using Regression Analysis.
     <br> 
 </p>
 
